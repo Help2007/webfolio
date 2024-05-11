@@ -22,7 +22,7 @@ body {
     justify-content: space-between;
     height: 80px;
     padding: 0 50px;
-    background-color: #1c1c1c;
+    background-color: #ffffff;
 }
 
 .navbar h2 {
@@ -78,7 +78,7 @@ body {
 
 .main h4 {
     font-size: 64px;
-    color: #ffffff;
+    color: #1c1c1c;
     font-weight: 600;
 }
 
