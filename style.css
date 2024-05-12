@@ -13,7 +13,7 @@ html {
 
 body {
     height: 100vh;
-    background: #cccccc;
+    background: #ffffff;
 }
 
 .navbar {
@@ -90,14 +90,14 @@ body {
 .main p.title {
     font-size: 32px;
     font-weight: 400;
-    color: #cccccc;
+    color: #000000;
     margin-top: 12px;
 }
 
 .main p.subtitle {
     font-size: 24px;
     font-weight: 400;
-    color: #cccccc;
+    color: #000000;
     margin-top: 32px;
 }
 
