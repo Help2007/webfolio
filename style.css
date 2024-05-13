@@ -82,26 +82,26 @@ body {
 
 .main h4 {
     font-size: 64px;
-    color: #000000;
+    color: #ffffff;
     font-weight: 600;
 }
 
 .main h4 span {
-    color: #000000;
+    color: #ffffff;
     ;
 }
 
 .main p.title {
     font-size: 32px;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     margin-top: 12px;
 }
 
 .main p.subtitle {
     font-size: 24px;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     margin-top: 32px;
 }
 
