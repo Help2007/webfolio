@@ -75,6 +75,9 @@ body {
     align-items: center;
     justify-content: center;
     background-image: url("https://c4.wallpaperflare.com/wallpaper/609/921/128/canyon-rock-monument-valley-desert-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
 }
 
 .main h4 {
